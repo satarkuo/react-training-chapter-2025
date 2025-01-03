@@ -15,8 +15,8 @@ const productsData = [
           "https://images.unsplash.com/photo-1626094309830-abbb0c99da4a?w=200",
           "https://images.unsplash.com/photo-1559656914-a30970c1affd?w=200"
         ]
-      },
-      {
+    },
+    {
         category: "蛋糕",
         content: "尺寸：6寸",
         description: "蜜蜂蜜蛋糕，夾層夾上酸酸甜甜的檸檬餡，清爽可口的滋味讓人口水直流！",
@@ -31,8 +31,8 @@ const productsData = [
         imagesUrl: [
           "https://images.unsplash.com/photo-1618888007540-2bdead974bbb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80",
         ]
-      },
-      {
+    },
+    {
         category: "蛋糕",
         content: "尺寸：6寸",
         description: "法式煎薄餅加上濃郁可可醬，呈現經典的美味及口感。",
@@ -48,7 +48,7 @@ const productsData = [
           "https://images.unsplash.com/flagged/photo-1557234985-425e10c9d7f1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA5fHxjYWtlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=60",
           "https://images.unsplash.com/photo-1540337706094-da10342c93d8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGNha2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=60"
         ]
-      }
+    }
 ];
 
 function App(){
